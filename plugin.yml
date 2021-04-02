@@ -1,0 +1,9 @@
+name: BattleBox
+version: 1.0
+api-version: 1.13
+main: de.doppelbemme.battlebox.main.BattleBox
+author: Doppelbemme
+commands:
+  start:
+  setupblocklocation:
+  setlocation:
